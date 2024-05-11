@@ -1,5 +1,7 @@
 ## 2024年春夏季操作系统训练营
 
+**If you finished all exercises and want to remove rustlings, remember to `rm ~/.cargo/bin/rustlings`**
+
 第一阶段将通过Rustlings进行测试，请按照以下步骤进行练习：
 
 1. 在网络浏览器中用自己的 github id 登录 github.com。
